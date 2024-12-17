@@ -1,4 +1,6 @@
-# Cyclistic Bike Share Case Study
-First case study after my Google Data Analyst Certification.
+## Project Overview
 
-This case study have a Notebook with all the steps i took in order to analysze the data and a presentation about my findings.
+**Objective**: Analyze the difference between casual riders and members.
+**Dataset**: Divvy Trip data.
+**Business Goal**: developing targeted marketing strategies and improving service offerings.
+**Methodology**: Statistical Analysis.
